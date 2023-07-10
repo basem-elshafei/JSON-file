@@ -1,0 +1,1016 @@
+{
+    "Calculated_Data": [
+        {
+            "Day": "Day1",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                700.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                10500.0
+            ],
+            "Throughput": [
+                29.0
+            ]
+        },
+        {
+            "Day": "Day2",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day3",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1000.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                15000.0
+            ],
+            "Throughput": [
+                42.0
+            ]
+        },
+        {
+            "Day": "Day4",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                600.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                9000.0
+            ],
+            "Throughput": [
+                25.0
+            ]
+        },
+        {
+            "Day": "Day5",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                800.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                12000.0
+            ],
+            "Throughput": [
+                33.0
+            ]
+        },
+        {
+            "Day": "Day6",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1200.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                18000.0
+            ],
+            "Throughput": [
+                50.0
+            ]
+        },
+        {
+            "Day": "Day7",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1100.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                16500.0
+            ],
+            "Throughput": [
+                46.0
+            ]
+        },
+        {
+            "Day": "Day8",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day9",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1200.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                18000.0
+            ],
+            "Throughput": [
+                50.0
+            ]
+        },
+        {
+            "Day": "Day_10",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                700.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                10500.0
+            ],
+            "Throughput": [
+                29.0
+            ]
+        },
+        {
+            "Day": "Day_11",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                800.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                12000.0
+            ],
+            "Throughput": [
+                33.0
+            ]
+        },
+        {
+            "Day": "Day_12",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day_13",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1000.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                15000.0
+            ],
+            "Throughput": [
+                42.0
+            ]
+        },
+        {
+            "Day": "Day_14",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1100.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                16500.0
+            ],
+            "Throughput": [
+                46.0
+            ]
+        }
+    ],
+    "Measured_Data": [
+        {
+            "Day": "Day1",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                700.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                10500.0
+            ],
+            "Throughput": [
+                29.0
+            ]
+        },
+        {
+            "Day": "Day2",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day3",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1000.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                15000.0
+            ],
+            "Throughput": [
+                42.0
+            ]
+        },
+        {
+            "Day": "Day4",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                600.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                9000.0
+            ],
+            "Throughput": [
+                25.0
+            ]
+        },
+        {
+            "Day": "Day5",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                800.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                12000.0
+            ],
+            "Throughput": [
+                33.0
+            ]
+        },
+        {
+            "Day": "Day6",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1200.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                18000.0
+            ],
+            "Throughput": [
+                50.0
+            ]
+        },
+        {
+            "Day": "Day7",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1100.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                16500.0
+            ],
+            "Throughput": [
+                46.0
+            ]
+        },
+        {
+            "Day": "Day8",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day9",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1200.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                18000.0
+            ],
+            "Throughput": [
+                50.0
+            ]
+        },
+        {
+            "Day": "Day_10",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                700.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                10500.0
+            ],
+            "Throughput": [
+                29.0
+            ]
+        },
+        {
+            "Day": "Day_11",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                800.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                12000.0
+            ],
+            "Throughput": [
+                33.0
+            ]
+        },
+        {
+            "Day": "Day_12",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day_13",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1000.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                15000.0
+            ],
+            "Throughput": [
+                42.0
+            ]
+        },
+        {
+            "Day": "Day_14",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1100.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                16500.0
+            ],
+            "Throughput": [
+                46.0
+            ]
+        }
+    ],
+    "manufacturing_KPIs": [
+        {
+            "Day": "Day1",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                700.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                10500.0
+            ],
+            "Throughput": [
+                29.0
+            ]
+        },
+        {
+            "Day": "Day2",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day3",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1000.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                15000.0
+            ],
+            "Throughput": [
+                42.0
+            ]
+        },
+        {
+            "Day": "Day4",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                600.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                9000.0
+            ],
+            "Throughput": [
+                25.0
+            ]
+        },
+        {
+            "Day": "Day5",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                800.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                12000.0
+            ],
+            "Throughput": [
+                33.0
+            ]
+        },
+        {
+            "Day": "Day6",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1200.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                18000.0
+            ],
+            "Throughput": [
+                50.0
+            ]
+        },
+        {
+            "Day": "Day7",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1100.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                16500.0
+            ],
+            "Throughput": [
+                46.0
+            ]
+        },
+        {
+            "Day": "Day8",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day9",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1200.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                18000.0
+            ],
+            "Throughput": [
+                50.0
+            ]
+        },
+        {
+            "Day": "Day_10",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                700.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                10500.0
+            ],
+            "Throughput": [
+                29.0
+            ]
+        },
+        {
+            "Day": "Day_11",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                800.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                12000.0
+            ],
+            "Throughput": [
+                33.0
+            ]
+        },
+        {
+            "Day": "Day_12",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                900.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                13500.0
+            ],
+            "Throughput": [
+                38.0
+            ]
+        },
+        {
+            "Day": "Day_13",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1000.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                15000.0
+            ],
+            "Throughput": [
+                42.0
+            ]
+        },
+        {
+            "Day": "Day_14",
+            "Time": [
+                24.0
+            ],
+            "Units_Produced": [
+                1100.0
+            ],
+            "Average_inventory": [
+                600.0
+            ],
+            "Production_target": [
+                700.0
+            ],
+            "Raw_materials_per_unit": [
+                14.0
+            ],
+            "Cost_of_goods_sold": [
+                16500.0
+            ],
+            "Throughput": [
+                46.0
+            ]
+        }
+    ]
+}
